@@ -1,4 +1,4 @@
-Data Science Beginner Projects
+#Data Science Beginner Projects
 
 This repository contains two beginner data analysis projects that I created while learning Data Science. The goal of these projects is to practice data cleaning, exploration, and visualization using Python.
 
@@ -15,12 +15,7 @@ Teams that perform well while batting first or chasing
 Toss winner vs match winner analysis
 
 Libraries used:
-
-Pandas
-
-Matplotlib
-
-Seaborn
+Pandas,Matplotlib,Seaborn
 
 Project 2: Game of Thrones Data Analysis
 
@@ -36,28 +31,7 @@ Character deaths by year
 
 Gender and nobility distribution
 
-Libraries used:
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Tools & Technologies
-
-Python
-
-Jupyter Notebook
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Purpose
+Libraries used: PandasNum,PyMatplotlib,SeabornTools & Technologies,Python,Jupyter,Notebook,Purpose
 
 These projects were created as part of my learning journey in Data Science to improve my skills in data analysis and visualization.
+
